@@ -1,4 +1,7 @@
 /ollama_files
+notebooks/.dlt
+notebooks/.lancedb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
